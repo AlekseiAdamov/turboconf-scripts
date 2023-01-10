@@ -10,6 +10,8 @@
 //@enterprise_mode 1
 //@hide_actions 1
 //@script_version 1
+//@turbomenu 1
+//@turbobutton 1
 
 // Переменная для хранения имени переменной,
 // которой нужно присвоить выделенный код.
