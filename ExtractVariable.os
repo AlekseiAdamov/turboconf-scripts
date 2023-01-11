@@ -4,7 +4,7 @@
 //@script_author Aleksei Adamov
 //@script_developer_url https://github.com/AlekseiAdamov
 //@script_url https://github.com/AlekseiAdamov/turboconf-scripts/ExtractVariable.os
-//@script_section Редактирование
+//@script_section Рефакторинг
 //@script_hotkey Control+Alt+V
 //@retain_clipboard 1
 //@enterprise_mode 1
