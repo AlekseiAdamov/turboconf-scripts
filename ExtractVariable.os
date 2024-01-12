@@ -3,7 +3,7 @@
 //@script_description Извлекает выделенный код в новую переменную.
 //@script_author Aleksei Adamov
 //@script_developer_url https://github.com/AlekseiAdamov
-//@script_url https://github.com/AlekseiAdamov/turboconf-scripts/ExtractVariable.os
+//@script_url https://github.com/AlekseiAdamov/turboconf-scripts/blob/main/ExtractVariable.os
 //@script_section Рефакторинг
 //@script_hotkey Control+Alt+V
 //@retain_clipboard 1
